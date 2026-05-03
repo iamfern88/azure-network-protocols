@@ -162,3 +162,8 @@ Networking lab project section covering:
   
   -Packet analysis (Wireshark)
 <br />
+
+
+<h2>Lesson Learned:</h2>
+
+Developed hands-on experience with cloud-based virtual machines, network traffic analysis, and security configurations. Gained a deeper understanding of how protocols like ICMP, DNS, and SSH function within a virtual network, along with the impact of firewall rules on connectivity and system communication.
