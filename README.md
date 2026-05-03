@@ -125,16 +125,6 @@ SSH Traffic Analysis & Secure Remote Access
 - Authenticated and excuted commands within a remote Linux session to simulate administrative tasks
 - Monitored encrypted SSH traffic in real time to understand secure communication behavior
 - Validated session termination and traffic patterns upon closing the SSH connection
-
-Lab Coverage on:
-
-- Cloud (Azure)
-
-- Networking (ICMP, NSG)
-
-- Security (firewall rules, SSH)
-
-- Tools (Wireshark, Poershell)
 </p>
 <br />
 
@@ -150,17 +140,43 @@ DNS Traffic Analysis & Name Resolution Testing
 - Mapped domain names to corresponding IP addresses to validate DNS functionality
 - Observed and analyzed real-time DNS queries in packet captures to understand network resolution processes
 
-Networking lab project section covering:
+<h2>Networking lab project section covering:</h2>
   
   -ICMP (ping)
   
-  -DNS
+  -DNS resolution
   
   -SSH
   
   -Network security (NSG)
   
   -Packet analysis (Wireshark)
+
+  -Network troubleshooting
+
+  -TCP/IP
+
+  -Command-line troubleshooting
+
+  -Azure Virtual Machines
+
+  -Windows 10 administration
+
+  -Ubuntu Linux
+
+  -Firewall configuration
+
+  -Inbound/Outbound rules
+
+  -Connectivity testing
+
+  -Remote Desktop Protocol (RDP)
+
+  -Network Security Groups (NSG)
+
+  -Network diagnostics
+
+  -Cloud infrastructure
 <br />
 
 
